@@ -65,6 +65,20 @@ A robotics project exploring autonomous movement and sensor-based navigation.
 **Focus areas:** Robotics · Electronics · Embedded programming
 
 <p align="center">
+
+
+## Technical Skills
+
+| Area | Skills |
+| --- | --- |
+| Systems | Ubuntu on WSL, Linux commands |
+| Scripting | Bash |
+| Version control | Git, GitHub |
+| APIs and data | REST APIs, JSON, curl, jq, Postman |
+
+## Projects
+
+- [DeveloperPortfolio - CSE103 Capstone](https://github.com/itzpritam7x/DeveloperPortfolio) - Linux documentation, Bash automation, and API work.
  
 ---
 
